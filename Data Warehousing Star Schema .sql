@@ -1,8 +1,7 @@
 ---------------------------------------
 --Data Warehousing Assignment 1
 --My Northwind's DW Script File
---Student ID:   #######
---Student Name: MyName MySurname
+
 ------------------------------------
 
 print '***************************************************************'
